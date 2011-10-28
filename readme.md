@@ -1,4 +1,4 @@
-Below is a description od the contexts of each folder:
+Below is a description of the contents for each folder:
 
 * eps: Logos in EPS format
 * ai: Logos in Illustrator format
