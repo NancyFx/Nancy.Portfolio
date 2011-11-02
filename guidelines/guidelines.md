@@ -1,4 +1,6 @@
-﻿## OVERVIEW
+# Nancy Logo Guidelines
+
+## OVERVIEW
 
 This document defines the basic guidelines on how Nancy logo should be presented. That is, given a certain context, this document outlines which of the different logo variants should be used.
 
