@@ -49,21 +49,36 @@ __Framed silhouette + unframed type (horizontal):__
 
 Note that no color has been used for it. That is intentional. By default, the logo variants have no color in them. In addition to the variants shown above, each of them may be used inverted (e.g.: black over white can become white over black and vice versa).
 
-
 If the use of colors is required given a certain graphical need, you should ask advice to Nancy's team before doing so.
-
-## SIZING
-
-// TODO
 
 ## SPACING
 
+Logos need a breathing space to live, especially when they are nearby other logos.
+
+An 'X' height is defined for each of our logos. It is required at minimum 1/2 of this X-height around any of the logos, but it is recommend very strongly that you maintain a full X-height of space around the logo and advise using a minimum X-height margin around the logo only in extreme cases (for example, a design for a very small object like a pen.)
+
+As a guidance, all .ai logo variants in our logo repository come with measurements for this purpose.
+
+Below is an example of these measurements and the clear space used:
+
 // TODO
 
-## DISTORTING
+## SIZING
+
+There is no restriction on how big any of the logos can be (as long as its size is justified by the context in which is used).
+
+For smaller sizes there is a limit of 24 pixels tall for the sihlouette, and the text (as well as any bounding boxes) should be limited in size accordingly.
+
+Below is an example of allowed and not allowed small sizes:
 
 // TODO
 
-## USAGE SCENARIOS
+## DONT'S // TODO: Add images...
 
-// TODO
+- Never use the logo on similarly-colored backgrounds
+
+- Never rearrange elements of the logo
+
+- Never stretch or distort the logo
+
+- Do not attempt to redraw the logos or otherwise recreate them. This could result in unauthorized logo variations getting spread around, and although intentions may be good, this could lead to Nancy's image corruption. Besides, you can easily get the logos from our public repository with no effort whatsoever, so why waste time!
