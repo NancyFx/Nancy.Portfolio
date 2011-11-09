@@ -73,7 +73,7 @@ Below is an example of allowed and not allowed small sizes:
 
 // TODO
 
-## DON'TS // TODO: Add images...
+## DONTs // TODO: Add images...
 
 - Never use the logo on similarly-colored backgrounds
 
