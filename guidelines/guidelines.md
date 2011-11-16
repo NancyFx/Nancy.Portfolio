@@ -47,7 +47,7 @@ __Framed silhouette + unframed type (horizontal):__
 
 ## COLOR
 
-Note that no color has been used for it. That is intentional. By default, the logo variants have no color in them. In addition to the variants shown above, each of them may be used inverted (e.g.: black over white can become white over black and vice versa).
+Note that no color has been used. That is intentional. By default, the logo variants have no color in them. In addition to the variants shown above, each of them may be used inverted (e.g.: black over white can become white over black and vice versa).
 
 If the use of colors is required given a certain graphical need, you should ask advice to Nancy's team before doing so.
 
@@ -61,7 +61,9 @@ As a guidance, all .ai logo variants in our logo repository come with measuremen
 
 Below is an example of these measurements and the clear space used:
 
-// TODO
+![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-vertical-framed-with-measurements.png)
+
+![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-horizontal-with-measurements.png)
 
 ## SIZING
 
@@ -71,14 +73,20 @@ For smaller sizes there is a limit of 24 pixels tall for the sihlouette, and the
 
 Below is an example of allowed and not allowed small sizes:
 
-// TODO
+![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-vertical-sizes.png) ![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-horizontal-sizes.png)
 
 ## DONTS // TODO: Add images...
 
 - Never use the logo on similarly-colored backgrounds
 
+![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-color-switch.png)
+
 - Never rearrange elements of the logo
 
-- Never stretch or distort the logo
+![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-rearrange.png)
+
+- Never stretch, distort or rotate the logo
+
+![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-stretched.png) ![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-rotated.png)
 
 - Do not attempt to redraw the logos or otherwise recreate them. This could result in unauthorized logo variations getting spread around, and although intentions may be good, this could lead to Nancy's image corruption. Besides, you can easily get the logos from our public repository with no effort whatsoever, so why waste time!
