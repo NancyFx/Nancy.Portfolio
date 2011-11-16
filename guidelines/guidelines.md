@@ -75,7 +75,7 @@ Below is an example of allowed and not allowed small sizes:
 
 ![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-vertical-sizes.png) ![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-horizontal-sizes.png)
 
-## DONTS // TODO: Add images...
+## DONTS
 
 - Never use the logo on similarly-colored backgrounds
 
@@ -90,3 +90,25 @@ Below is an example of allowed and not allowed small sizes:
 ![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-stretched.png) ![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-rotated.png)
 
 - Do not attempt to redraw the logos or otherwise recreate them. This could result in unauthorized logo variations getting spread around, and although intentions may be good, this could lead to Nancy's image corruption. Besides, you can easily get the logos from our public repository with no effort whatsoever, so why waste time!
+
+## ABOUT THE REPOSITORY
+
+All the logos can be found in Nancy's logo repository, located at:
+
+([http://www.github.com/nancyfx/nancy.portfolio](http://www.github.com/nancyfx/nancy.portfolio))
+
+Below is a description of the contents for each folder in the repository:
+
+* eps: Logos in EPS format
+* ai: Logos in Illustrator format
+* png: Logos in PNG format, at 600 dpi
+* favicon: Icon file (.ico) used as favicon
+
+The "ai" folder contains the original sources, and they contain the measurements used to shape the different logo variants.
+
+The "eps" and "png" folders contain the various logo variants ready to be used. For each variant we provide all the available options to choose from. That is:
+
+* Black foregorund over white background (file name style: logo_variant + bf-wb + extension)
+* White foreground over black background (file name style: logo_variant + wf-bb + extension)
+* Black foregorund over transparent (file name style: logo_variant + bf-tb + extension)
+* White foreground over transparent (file name style: logo_variant + wf-tb + extension)
