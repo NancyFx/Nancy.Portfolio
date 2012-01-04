@@ -23,27 +23,27 @@ The logo may be presented in any of these variants:
 
 __Silhouette only:__
 
- ![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-logotype-bf-tb.png)
+ ![Alt](https://github.com/nancyfx/Nancy.Portfolio/raw/master/guidelines/nancy-logotype-bf-tb.png)
 
 __Silhouette + type (horizontal):__
 
- ![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-horizontal-bf-tb.png)
+ ![Alt](https://github.com/nancyfx/Nancy.Portfolio/raw/master/guidelines/nancy-horizontal-bf-tb.png)
 
 __Silhouette + type framed (horizontal):__
 
- ![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-horizontal-framed-wf-bb.png)
+ ![Alt](https://github.com/nancyfx/Nancy.Portfolio/raw/master/guidelines/nancy-horizontal-framed-wf-bb.png)
 
 __Silhouette + type (vertical):__
 
- ![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-vertical-bf-tb.png)
+ ![Alt](https://github.com/nancyfx/Nancy.Portfolio/raw/master/guidelines/nancy-vertical-bf-tb.png)
 
 __Silhouette + type framed (vertical):__
 
- ![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-vertical-framed-wf-bb.png)
+ ![Alt](https://github.com/nancyfx/Nancy.Portfolio/raw/master/guidelines/nancy-vertical-framed-wf-bb.png)
 
 __Framed silhouette + unframed type (horizontal):__
 
- ![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-logotype-in-square-with-type-bf-tb.png)
+ ![Alt](https://github.com/nancyfx/Nancy.Portfolio/raw/master/guidelines/nancy-logotype-in-square-with-type-bf-tb.png)
 
 ## COLOR
 
@@ -61,9 +61,9 @@ As a guidance, all .ai logo variants in our logo repository come with measuremen
 
 Below is an example of these measurements and the clear space used:
 
-![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-vertical-framed-with-measurements.png)
+![Alt](https://github.com/nancyfx/Nancy.Portfolio/raw/master/guidelines/nancy-vertical-framed-with-measurements.png)
 
-![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-horizontal-with-measurements.png)
+![Alt](https://github.com/nancyfx/Nancy.Portfolio/raw/master/guidelines/nancy-horizontal-with-measurements.png)
 
 ## SIZING
 
@@ -73,21 +73,21 @@ For smaller sizes there is a limit of 24 pixels tall for the sihlouette, and the
 
 Below is an example of allowed and not allowed small sizes:
 
-![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-vertical-sizes.png) ![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-horizontal-sizes.png)
+![Alt](https://github.com/nancyfx/Nancy.Portfolio/raw/master/guidelines/nancy-vertical-sizes.png) ![Alt](https://github.com/nancyfx/Nancy.Portfolio/raw/master/guidelines/nancy-horizontal-sizes.png)
 
 ## DONTS
 
 - Never use the logo on similarly-colored backgrounds
 
-![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-color-switch.png)
+![Alt](https://github.com/nancyfx/Nancy.Portfolio/raw/master/guidelines/nancy-color-switch.png)
 
 - Never rearrange elements of the logo
 
-![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-rearrange.png)
+![Alt](https://github.com/nancyfx/Nancy.Portfolio/raw/master/guidelines/nancy-rearrange.png)
 
 - Never stretch, distort or rotate the logo
 
-![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-stretched.png) ![Alt](https://github.com/nicolasgarfinkiel/Nancy.Portfolio/raw/master/guidelines/nancy-rotated.png)
+![Alt](https://github.com/nancyfx/Nancy.Portfolio/raw/master/guidelines/nancy-stretched.png) ![Alt](https://github.com/nancyfx/Nancy.Portfolio/raw/master/guidelines/nancy-rotated.png)
 
 - Do not attempt to redraw the logos or otherwise recreate them. This could result in unauthorized logo variations getting spread around, and although intentions may be good, this could lead to Nancy's image corruption. Besides, you can easily get the logos from our public repository with no effort whatsoever, so why waste time!
 
