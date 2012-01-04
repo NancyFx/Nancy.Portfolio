@@ -10,12 +10,12 @@ Nancy's logo was designed with these goals in mind:
 
 - Simple and elegant
 - Strong personality with a feminine touch
-- Inspired on 1930s art deco ([http://en.wikipedia.org/wiki/Art_Deco](http://en.wikipedia.org/wiki/Art_Deco))
+- Inspired by ([1930s art deco](http://en.wikipedia.org/wiki/Art_Deco))
 - Should contain both text and a self identifying  emblem (logotype + logo)
 - Should vary in style depending on the context (see below)
 - Should scale well up and down
 
-Following those lines, Nancy's logo design is made of a silhouette portraying a woman's profile against a negative space, plus a sleek, capitalized, sharp cornered font type to balance the curves from the silhouette. Combined, they inspire simplicity, sophistication, elegance and harmony.
+Following these goals, Nancy's logo design is made of a silhouette portraying a woman's profile against a negative space, plus a sleek, capitalized, sharp cornered font type to balance the curves from the silhouette. Combined, they inspire simplicity, sophistication, elegance and harmony.
 
 ## VARIANTS
 
@@ -69,13 +69,13 @@ Below is an example of these measurements and the clear space used:
 
 There is no restriction on how big any of the logos can be (as long as its size is justified by the context in which is used).
 
-For smaller sizes there is a limit of 24 pixels tall for the sihlouette, and the text (as well as any bounding boxes) should be limited in size accordingly.
+For smaller sizes there is a limit of 24 pixels tall for the silhouette, and the text (as well as any bounding boxes) should be limited in size accordingly.
 
 Below is an example of allowed and not allowed small sizes:
 
 ![Alt](https://github.com/nancyfx/Nancy.Portfolio/raw/master/guidelines/nancy-vertical-sizes.png) ![Alt](https://github.com/nancyfx/Nancy.Portfolio/raw/master/guidelines/nancy-horizontal-sizes.png)
 
-## DONTS
+## DONT'S
 
 - Never use the logo on similarly-colored backgrounds
 
