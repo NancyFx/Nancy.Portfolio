@@ -4,6 +4,7 @@ Below is a description of the contents for each folder:
 * ai: Logos in Illustrator format
 * png: Logos in PNG format, at 600 dpi
 * favicon: Icon file (.ico) used as favicon
+* guidelines: information on how the Nancy logo may be used ( **be sure to read this** )
 
 The "ai" folder contains the original sources, and they contain the measurements used to shape the different logo variants.
 
