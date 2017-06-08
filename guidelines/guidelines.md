@@ -91,6 +91,16 @@ Below is an example of allowed and not allowed small sizes:
 
 - Do not attempt to redraw the logos or otherwise recreate them. This could result in unauthorized logo variations getting spread around, and although intentions may be good, this could lead to Nancy's image corruption. Besides, you can easily get the logos from our public repository with no effort whatsoever, so why waste time!
 
+## COMMUNITY CONTRIBUTIONS
+
+If you create community content for Nancy, such as NuGet packages with extensions, then please refrain from using the Nancy logo. Instead use the provided Nancy Community logo as illustrated below.
+
+![ALT](nancy-community.png)
+
+This will help reduce confusion when it comes to asking the Nancy team for support when it is a community package, as well as highlight the fact that it was created by our awesome community!
+
+The community logo is available in the following formats; ai, eps and png.
+
 ## ABOUT THE REPOSITORY
 
 All the logos can be found in Nancy's logo repository, located at:
@@ -110,5 +120,5 @@ The "eps" and "png" folders contain the various logo variants ready to be used. 
 
 * Black foregorund over white background (file name style: logo_variant + bf-wb + extension)
 * White foreground over black background (file name style: logo_variant + wf-bb + extension)
-* Black foregorund over transparent (file name style: logo_variant + bf-tb + extension)
+* Black foreground over transparent (file name style: logo_variant + bf-tb + extension)
 * White foreground over transparent (file name style: logo_variant + wf-tb + extension)
